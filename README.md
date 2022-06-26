@@ -6,4 +6,4 @@ Aprendi muito sobre TypeScript, Graphql, Graphcms, TailwindCSS e React. Foi uma 
 
 Link para a primeira aula ja criando a plataforma 
  👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇         
-                        https://www.youtube.com/watch?v=Ox_zb2cs9zM
+             https://www.youtube.com/watch?v=Ox_zb2cs9zM
